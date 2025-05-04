@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amareangell 
-- 👀 I’m interested in computer science, cognitive neuroscience, biology, and bridging the gap between technology and accessibility for low-income communities.  
+- 👀 I’m interested in computer science, and bridging the gap between technology and accessibility for low-income communities.  
 - 🌱 I’m currently learning advanced C++ programming, Python, and Java, as well as exploring frameworks like Django, Flask, and React to enhance my software development skills.  
 - 💞️ I’m looking to collaborate on innovative STEM projects, educational kits, and tech-driven solutions that promote social good and enhance understanding in biology and neuroscience.  
 - 📫 How to reach me Feel free to email me @ angeldennistevenson@gmail.com or astevenson5@cub.uca.edu or connect with me on LinkedIn @ www.linkedin.com/in/angel-stevenson.  
